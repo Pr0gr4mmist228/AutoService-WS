@@ -1,0 +1,62 @@
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\AutoService WS.exe.config
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\AutoService WS.exe
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\AutoService WS.pdb
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csprojAssemblyReference.cache
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\MainWindow.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\ManufacturerListPage.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\App.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS_MarkupCompile.cache
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS_MarkupCompile.lref
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\MainWindow.baml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\ManufacturerListPage.baml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.g.resources
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService_WS.Properties.Resources.resources
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csproj.GenerateResource.cache
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csproj.CoreCompileInputs.cache
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.exe
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.pdb
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\EntityFramework.dll
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\EntityFramework.xml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\StackList.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\StackList.baml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csproj.CopyComplete
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AuthPage.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\AuthPage.baml
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\ManufacturerListPageClient.g.cs
+C:\Users\4\source\repos\AutoService WS\AutoService WS\obj\Debug\ManufacturerListPageClient.baml
+E:\AutoService WS\AutoService WS\bin\Debug\AutoService WS.exe.config
+E:\AutoService WS\AutoService WS\bin\Debug\AutoService WS.exe
+E:\AutoService WS\AutoService WS\bin\Debug\AutoService WS.pdb
+E:\AutoService WS\AutoService WS\bin\Debug\EntityFramework.dll
+E:\AutoService WS\AutoService WS\bin\Debug\EntityFramework.SqlServer.dll
+E:\AutoService WS\AutoService WS\bin\Debug\EntityFramework.xml
+E:\AutoService WS\AutoService WS\bin\Debug\EntityFramework.SqlServer.xml
+E:\AutoService WS\AutoService WS\bin\Debug\ru\EntityFramework.resources.dll
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csprojResolveAssemblyReference.cache
+E:\AutoService WS\AutoService WS\obj\Debug\App.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS_MarkupCompile.cache
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS_MarkupCompile.lref
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS.g.resources
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService_WS.Properties.Resources.resources
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS.csproj.GenerateResource.Cache
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS.exe
+E:\AutoService WS\AutoService WS\obj\Debug\AutoService WS.pdb
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ClientAddManufPage.baml
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ManufacturerEditWindow.baml
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ClientAddManufPage.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ManufacturerEditWindow.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ManufacturerListPage.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\Client Resourses\ManufacturerListPageClient.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\LatestClientServicePage.baml
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\LatestClientServicePage.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\ManufacturerListPage.baml
+E:\AutoService WS\AutoService WS\obj\Debug\Client Resourses\ManufacturerListPageClient.baml
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\AdminMenuPage.baml
+E:\AutoService WS\AutoService WS\obj\Debug\AdminResorses\AdminMenuPage.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\MainResourses\AuthPage.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\MainResourses\MainWindow.g.cs
+E:\AutoService WS\AutoService WS\obj\Debug\MainResourses\AuthPage.baml
+E:\AutoService WS\AutoService WS\obj\Debug\MainResourses\MainWindow.baml

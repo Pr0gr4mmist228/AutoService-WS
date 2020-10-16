@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="AutoService_WS.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:AutoService_WS"
+	mc:Ignorable="d"
+	Title="MainWindow"
+	Width="800"
+	WindowStartupLocation="CenterScreen"
+	Height="475">
+	<Grid>
+		<StackPanel
+			Orientation="Horizontal"
+			VerticalAlignment="Top">
+			<Image
+				Height="70"
+				Margin="100,5,0,0"
+				HorizontalAlignment="Center"
+				Source="C:\Users\artem\Desktop\WS\service_logo.png" />
+			<TextBlock
+				x:Name="textHeader"
+				HorizontalAlignment="Center"
+				Margin="10,0,0,0"
+				VerticalAlignment="Center"
+				FontSize="20pt"
+				FontFamily="Tw Cen MT"
+				x:FieldModifier="public" Text="{Binding ElementName=mainFrame,Path=Content.Title}"></TextBlock>
+		</StackPanel>
+		<Frame
+			NavigationUIVisibility="Hidden"
+			x:Name="mainFrame"
+			VerticalAlignment="Bottom"
+			Height="350" />
+	</Grid>
+</Window>

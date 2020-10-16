@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="AutoService_WS.ManufacturerEditWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Изменить услугу"
+	Height="334"
+	Width="651">
+	<Grid>
+		<StackPanel VerticalAlignment="Top" HorizontalAlignment="Left">
+			<StackPanel
+				Orientation="Horizontal">
+				<TextBlock
+					Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Название</TextBlock>
+				<TextBox
+					x:Name="boxName"
+					Width="200"></TextBox>
+			</StackPanel>
+			<StackPanel
+				Margin="0,5,0,5"
+				Orientation="Horizontal">
+				<TextBlock
+					Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Стоимость</TextBlock>
+				<TextBox
+					x:Name="boxCost"
+					Width="200"></TextBox>
+			</StackPanel>
+			<StackPanel
+				Orientation="Horizontal">
+				<TextBlock
+					Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Длительность в минутах</TextBlock>
+				<TextBox
+					x:Name="boxDuration"
+					Width="200"></TextBox>
+			</StackPanel>
+			<StackPanel
+				Orientation="Horizontal" Margin="0,5,0,5">
+				<TextBlock
+					Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Описание</TextBlock>
+				<TextBox
+					x:Name="boxDescrip"
+					Width="200"></TextBox>
+			</StackPanel>
+			<StackPanel
+				Orientation="Horizontal" Margin="0,0,0,5">
+				<TextBlock
+					Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Скидка</TextBlock>
+				<TextBox
+					x:Name="boxDiscount"
+					Width="200"></TextBox>
+				</StackPanel>
+				
+				<StackPanel Orientation="Horizontal">
+				<TextBlock Width="180"
+					FontSize="12pt"
+					FontFamily="Tw Cen MT">Путь к картинке</TextBlock>
+				<TextBox Width="200" x:Name="boxFilePath"/>
+			
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			HorizontalAlignment="Center"
+			VerticalAlignment="Bottom"
+			Margin="0,0,0,5"
+			Orientation="Horizontal">
+			<Button
+				x:Name="buttonAccept"
+				Click="ButtonAccept_Click"
+				Margin="0,0,5,0">Изменить</Button>
+			<Button
+				x:Name="buttonCancel"
+				Click="ButtonCancel_Click">Отменить</Button>
+		</StackPanel>
+	
+		<Image HorizontalAlignment="Right" VerticalAlignment="Top" MaxHeight="250" MaxWidth="200" Source="C:\Users\artem\Desktop\WS\service_layout.png" x:Name="image"></Image>
+	</Grid>
+</Window>

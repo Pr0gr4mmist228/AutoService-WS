@@ -1,0 +1,13 @@
+<Page x:Class="AutoService_WS.AdminResorses.AdminMenuPage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Выбор функции">
+	<Grid>
+		<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Button Height="70" x:Name="buttonAddManuf" Click="ButtonAddManuf_Click">Подача заявки клиента на ремонт</Button>
+			<Button Margin="0,5,0,5" Height="70" x:Name="buttonLastestClientService" Click="ButtonLastestClientService_Click">Просмотр последних заявок на ремонт</Button>
+			<Button Height="70" x:Name="buttonManufList" Click="ButtonManufList_Click">Просмотр и редактирование услуг</Button>
+		</StackPanel>
+			<Button VerticalAlignment="Top" Margin="5,0,0,0" HorizontalAlignment="Left" Width="50" x:Name="buttonBack" Click="ButtonBack_Click">Назад</Button>
+	</Grid>
+</Page>

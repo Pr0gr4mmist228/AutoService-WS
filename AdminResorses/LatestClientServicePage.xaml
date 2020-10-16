@@ -1,0 +1,13 @@
+<Page x:Class="AutoService_WS.LatestClientServicePage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Ближайшие записи">
+	<Grid>
+		<ScrollViewer Margin="0,30,0,0">
+		<StackPanel x:Name="stackPanel">
+		</StackPanel>
+</ScrollViewer>
+	
+	<Button VerticalAlignment="Top" Margin="5,0,0,0" HorizontalAlignment="Left" Width="50" x:Name="buttonBack" Click="ButtonBack_Click">Назад</Button>
+	</Grid>
+</Page>
