@@ -1,0 +1,6 @@
+E:\AutoService WS\AutoServiceMethods\bin\Debug\AutoServiceMethods.dll
+E:\AutoService WS\AutoServiceMethods\bin\Debug\AutoServiceMethods.pdb
+E:\AutoService WS\AutoServiceMethods\obj\Debug\AutoServiceMethods.csprojAssemblyReference.cache
+E:\AutoService WS\AutoServiceMethods\obj\Debug\AutoServiceMethods.csproj.CoreCompileInputs.cache
+E:\AutoService WS\AutoServiceMethods\obj\Debug\AutoServiceMethods.dll
+E:\AutoService WS\AutoServiceMethods\obj\Debug\AutoServiceMethods.pdb
